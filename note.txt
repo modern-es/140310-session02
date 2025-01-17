@@ -1,0 +1,20 @@
+.class {
+}
+
+h1 {
+}
+
+#id {
+}
+
+[disabled] {
+}
+
+
+-----
+
+h1.myClass {
+}
+
+h1 .myClass {
+}
